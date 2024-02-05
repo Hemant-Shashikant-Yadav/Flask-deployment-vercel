@@ -1,0 +1,6 @@
+matplotlib
+Flask
+Flask-Cors
+Werkzeug
+tensorflow
+keras
